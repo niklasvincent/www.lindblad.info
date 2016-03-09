@@ -26,6 +26,7 @@ iPhone-applikationen är utvecklad i samarbete med [Simson Creative Solutions](h
 ![Kvittar iPhone](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/kvittar-iphone-bw.png)
 
 ### BoPoolen.nu (2011)
+
 [BoPoolen.nu](http://bopoolen.nu) är en webbplats för bostadsannonser som drivs av [Samarbetsorganisationen för studentkårer vid Lunds universitet](http://www.lus.lu.se/index.php/). Webbplatsen har tusentals användare och är en av de främsta kanalera för bostadsförmedling bland nya studenter i Lund.
 
 Utifrån en design framtagen av [Salmiak Media](http://www.salmiakmedia.se/) utvecklade jag annonssystemet i form utav ett WordPress-plugin.
@@ -40,6 +41,7 @@ Utifrån en design framtagen av [Salmiak Media](http://www.salmiakmedia.se/) utv
 ![BoPoolen.nu](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/bopoolen-nu-bw.png)
 
 ### Radio AF till iPhone och Android [API] (2011)
+
 I slutet av min tid som datoransvarig på [Radio AF](http://radioaf.se) tog jag fram ett API för att underlätta utvecklingen av en iPhone- och Android-applikation. Applikationen i sig är utvecklad av [Simson Creative Solutions](Simson Creative Solutions).
 
 - Möjlighet att hämta vilken låt som spelas just nu och vilket program som sänder.
@@ -48,6 +50,7 @@ I slutet av min tid som datoransvarig på [Radio AF](http://radioaf.se) tog jag 
 ![Radio AF app](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/radioaf-app-bw.png)
 
 ### Lundakarnevalen.se (2010)
+
 [Lundakarnevalen.se](http://lundakarnevalen.se) var utan tvekan den mest besöka webbplatsen i Skåne under karnevalsvåren 2010. Via karnevalens hemsida offentliggjordes artister och uppträden, samtidigt som de individuella sektionerna fick chans att skylta med sin verksamhet.
 
 Webbplatsen utvecklades ideellt i samarbete med [Nicklas Nygren (Mossisen Media)](http://mossisen.se/). Vi använde oss utav WordPress.
@@ -55,6 +58,7 @@ Webbplatsen utvecklades ideellt i samarbete med [Nicklas Nygren (Mossisen Media)
 ![Lundakarnevalen.se](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/lundakarnevalen-se-bw.png)
 
 ### Studentlund.se (2010)
+
 Studentlund är ett samarbete mellan en rad olika studentorganisationer i Lund. Bland medlemsorganisationerna återfinns bland annat studentnationerna och Akademiska Föreningen. Under terminerna anordnas alltifrån nattklubbar till poesiträffar och direktsänd radio.
 
 [Studentlund.se](http://studentlund.se) är den främsta kommunikationskanalen för dessa studentorganisationer.
