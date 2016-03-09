@@ -13,19 +13,7 @@ Jag bor numera i London och arbetar heltid på tidningen [The Guardian](http://w
 ## 2009 - 2013
 Under tiden jag studerade [teknisk nanovetenskap](http://www.lth.se/utbildning/teknisk-nanovetenskap/fragor-till-nanoingenjorer/) i Lund drev jag Lindblad IT-konsultation och frilansade inom mjukvaruutveckling.
 
-### Kvittar iPhone [API] (2011)
-
-[Kvittar](http://kvittar.se/this-is-kvittar/) är ett företag i Malmö med målet att skapa en komplett plattform för digitala kvitton. Tanken är att göra papperskvitton överflödiga och istället skicka kvittot digitalt direkt från kassaapparaten.
-
-Sedan januari 2011 har jag [arbetat med Kvittar](http://kvittar.se/2011/02/civilingenjor-med-fokus-pa-lamp/) för att utveckla det bakomliggande systemet för tjänsten.
-
-Den 21 juni 2011 klockan 10:00 skickades Sveriges första digitala kvittot i sambaed med ett köp på [restaurang Välfärden](http://valfarden.se/) i Malmö.
-
-iPhone-applikationen är utvecklad i samarbete med [Simson Creative Solutions](http://simsons.se/).
-
-![Kvittar iPhone](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/kvittar-iphone-bw.png)
-
-### BoPoolen.nu (2011) 
+### BoPoolen.nu (2011)
 
 [BoPoolen.nu](http://bopoolen.nu) är en webbplats för bostadsannonser som drivs av [Samarbetsorganisationen för studentkårer vid Lunds universitet](http://www.lus.lu.se/index.php/). Webbplatsen har tusentals användare och är en av de främsta kanalera för bostadsförmedling bland nya studenter i Lund.
 
@@ -39,6 +27,18 @@ Utifrån en design framtagen av [Salmiak Media](http://www.salmiakmedia.se/) utv
 - Källkoden är 100% dokumenterad och innehåller allt en PHP-utvecklare behöver veta för att bygga vidare systemet.
 
 ![BoPoolen.nu](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/bopoolen-nu-bw.png)
+
+### Kvittar iPhone [API] (2011)
+
+[Kvittar](http://kvittar.se/this-is-kvittar/) är ett företag i Malmö med målet att skapa en komplett plattform för digitala kvitton. Tanken är att göra papperskvitton överflödiga och istället skicka kvittot digitalt direkt från kassaapparaten.
+
+Sedan januari 2011 har jag [arbetat med Kvittar](http://kvittar.se/2011/02/civilingenjor-med-fokus-pa-lamp/) för att utveckla det bakomliggande systemet för tjänsten.
+
+Den 21 juni 2011 klockan 10:00 skickades Sveriges första digitala kvittot i sambaed med ett köp på [restaurang Välfärden](http://valfarden.se/) i Malmö.
+
+iPhone-applikationen är utvecklad i samarbete med [Simson Creative Solutions](http://simsons.se/).
+
+![Kvittar iPhone](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/kvittar-iphone-bw.png)
 
 ### Radio AF till iPhone och Android [API] (2011)
 
