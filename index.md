@@ -57,7 +57,7 @@ Webbplatsen utvecklades ideellt i samarbete med [Nicklas Nygren (Mossisen Media)
 
 ![Lundakarnevalen.se](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/lundakarnevalen-se-bw.png)
 
-### Studentlund.se (2010)
+### Studentlund.se (2010)
 
 Studentlund är ett samarbete mellan en rad olika studentorganisationer i Lund. Bland medlemsorganisationerna återfinns bland annat studentnationerna och Akademiska Föreningen. Under terminerna anordnas alltifrån nattklubbar till poesiträffar och direktsänd radio.
 
