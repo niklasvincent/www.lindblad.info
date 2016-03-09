@@ -25,7 +25,7 @@ iPhone-applikationen är utvecklad i samarbete med [Simson Creative Solutions](h
 
 ![Kvittar iPhone](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/kvittar-iphone-bw.png)
 
-### BoPoolen.nu (2011)
+### BoPoolen.nu (2011) 
 
 [BoPoolen.nu](http://bopoolen.nu) är en webbplats för bostadsannonser som drivs av [Samarbetsorganisationen för studentkårer vid Lunds universitet](http://www.lus.lu.se/index.php/). Webbplatsen har tusentals användare och är en av de främsta kanalera för bostadsförmedling bland nya studenter i Lund.
 
