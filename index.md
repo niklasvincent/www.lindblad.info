@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Logo](https://d2tjdh98vh6jzp.cloudfront.net/images/logo.png)
+{% include logo.html %}
 
 Lindblad IT-konsultation drivs av [Niklas Lindblad](https://www.linkedin.com/in/nlindblad).
 
@@ -23,7 +23,7 @@ Den 21 juni 2011 klockan 10:00 skickades Sveriges första digitala kvittot i sam
 
 iPhone-applikationen är utvecklad i samarbete med [Simson Creative Solutions](http://simsons.se/).
 
-![Kvittar iPhone](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/kvittar-iphone.png)
+![Kvittar iPhone](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/kvittar-iphone-bw.png)
 
 ### BoPoolen.nu (2011)
 [BoPoolen.nu](http://bopoolen.nu) är en webbplats för bostadsannonser som drivs av [Samarbetsorganisationen för studentkårer vid Lunds universitet](http://www.lus.lu.se/index.php/). Webbplatsen har tusentals användare och är en av de främsta kanalera för bostadsförmedling bland nya studenter i Lund.
@@ -37,7 +37,7 @@ Utifrån en design framtagen av [Salmiak Media](http://www.salmiakmedia.se/) utv
 - Alla formulärsfält hanteras centralt vilket innebär att det är enkelt att lägga till nya fält.
 - Källkoden är 100% dokumenterad och innehåller allt en PHP-utvecklare behöver veta för att bygga vidare systemet.
 
-![BoPoolen.nu](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/bopoolen-nu.png)
+![BoPoolen.nu](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/bopoolen-nu-bw.png)
 
 ### Radio AF till iPhone och Android [API] (2011)
 I slutet av min tid som datoransvarig på [Radio AF](http://radioaf.se) tog jag fram ett API för att underlätta utvecklingen av en iPhone- och Android-applikation. Applikationen i sig är utvecklad av [Simson Creative Solutions](Simson Creative Solutions).
@@ -45,14 +45,14 @@ I slutet av min tid som datoransvarig på [Radio AF](http://radioaf.se) tog jag 
 - Möjlighet att hämta vilken låt som spelas just nu och vilket program som sänder.
 - Tablån hämtas via ett API.
 
-![Radio AF app](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/radioaf-app.png)
+![Radio AF app](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/radioaf-app-bw.png)
 
 ### Lundakarnevalen.se (2010)
 [Lundakarnevalen.se](http://lundakarnevalen.se) var utan tvekan den mest besöka webbplatsen i Skåne under karnevalsvåren 2010. Via karnevalens hemsida offentliggjordes artister och uppträden, samtidigt som de individuella sektionerna fick chans att skylta med sin verksamhet.
 
 Webbplatsen utvecklades ideellt i samarbete med [Nicklas Nygren (Mossisen Media)](http://mossisen.se/). Vi använde oss utav WordPress.
 
-![Lundakarnevalen.se](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/lundakarnevalen-se.png)
+![Lundakarnevalen.se](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/lundakarnevalen-se-bw.png)
 
 ### Studentlund.se (2010)
 Studentlund är ett samarbete mellan en rad olika studentorganisationer i Lund. Bland medlemsorganisationerna återfinns bland annat studentnationerna och Akademiska Föreningen. Under terminerna anordnas alltifrån nattklubbar till poesiträffar och direktsänd radio.
@@ -69,4 +69,4 @@ Förutom innehållshantering och egna undersidor för alla studentföreningar be
 - Eventkalender för evenemang som kan läggas till automatiskt från existerande Google-kalendrar. Varje studentorganisation hanterar sin egen information.
 - REST API för eventkalendern. Står för innehållet i en [iPhone](http://itunes.apple.com/se/app/studentlund-din-guide-till/id432194715?mt=8") och [Android](https://market.android.com/details?id=org.af.studentlund38feature=search_result)-applikation som togs fram i samarbete med [Simson Creative Solutions](http://simsons.se/).
 
-![Studentlund.se](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/studentlund.png)
+![Studentlund.se](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/studentlund-bw.png)
