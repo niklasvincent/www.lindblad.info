@@ -42,7 +42,7 @@ Utifrån en design framtagen av [Salmiak Media](http://www.salmiakmedia.se/) utv
 
 ### Radio AF till iPhone och Android [API] (2011)
 
-I slutet av min tid som datoransvarig på [Radio AF](http://radioaf.se) tog jag fram ett API för att underlätta utvecklingen av en iPhone- och Android-applikation. Applikationen i sig är utvecklad av [Simson Creative Solutions](Simson Creative Solutions).
+I slutet av min tid som datoransvarig på [Radio AF](http://radioaf.se) tog jag fram ett API för att underlätta utvecklingen av en iPhone- och Android-applikation. Applikationen i sig är utvecklad av [Simson Creative Solutions](http://simsons.se).
 
 - Möjlighet att hämta vilken låt som spelas just nu och vilket program som sänder.
 - Tablån hämtas via ett API.
@@ -71,6 +71,6 @@ Förutom innehållshantering och egna undersidor för alla studentföreningar be
 - Facebook-integration
 - Google Maps-integration
 - Eventkalender för evenemang som kan läggas till automatiskt från existerande Google-kalendrar. Varje studentorganisation hanterar sin egen information.
-- REST API för eventkalendern. Står för innehållet i en [iPhone](http://itunes.apple.com/se/app/studentlund-din-guide-till/id432194715?mt=8") och [Android](https://market.android.com/details?id=org.af.studentlund38feature=search_result)-applikation som togs fram i samarbete med [Simson Creative Solutions](http://simsons.se/).
+- REST API för eventkalendern. Står för innehållet i en [iPhone](http://itunes.apple.com/se/app/studentlund-din-guide-till/id432194715?mt=8) och [Android](https://market.android.com/details?id=org.af.studentlund38feature=search_result)-applikation som togs fram i samarbete med [Simson Creative Solutions](http://simsons.se/).
 
 ![Studentlund.se](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/studentlund-bw.png)
