@@ -7,6 +7,6 @@ author: Niklas Lindblad
 author_google_url: https://plus.google.com/u/1/+NiklasLindblad
 # Build settings
 markdown: kramdown
-exclude: ["README.md", "_nginx"]
+exclude: [".travis.yml", "Gemfile", "Gemfile.lock", "vendor", "Rakefile", "README.md", "_nginx"]
 sass:
   style: compressed
