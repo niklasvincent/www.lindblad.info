@@ -15,7 +15,7 @@ Under tiden jag studerade [teknisk nanovetenskap](http://www.lth.se/utbildning/t
 
 ### Kvittar iPhone [API] (2011)
 
-[Kvittar](http://kvittar.se/this-is-kvittar/) är ett företag i Malmö med målet att skapa en komplett plattform för digitala kvitton. Tanken är att göra papperskvitton överflödiga och istället skicka kvittot digitalt direkt från kassaapparaten.
+[Kvittar](http://www.kvittar.com/aboutus/) är ett företag i Malmö med målet att skapa en komplett plattform för digitala kvitton. Tanken är att göra papperskvitton överflödiga och istället skicka kvittot digitalt direkt från kassaapparaten.
 
 Sedan januari 2011 har jag [arbetat med Kvittar](http://kvittar.se/2011/02/civilingenjor-med-fokus-pa-lamp/) för att utveckla det bakomliggande systemet för tjänsten.
 
@@ -25,7 +25,8 @@ iPhone-applikationen är utvecklad i samarbete med [Simson Creative Solutions](h
 
 ![Kvittar iPhone](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/kvittar-iphone-bw.png)
 
-### BoPoolen.nu (2011)
+### BoPoolen.nu (2011)
+
 [BoPoolen.nu](http://bopoolen.nu) är en webbplats för bostadsannonser som drivs av [Samarbetsorganisationen för studentkårer vid Lunds universitet](http://www.lus.lu.se/index.php/). Webbplatsen har tusentals användare och är en av de främsta kanalera för bostadsförmedling bland nya studenter i Lund.
 
 Utifrån en design framtagen av [Salmiak Media](http://www.salmiakmedia.se/) utvecklade jag annonssystemet i form utav ett WordPress-plugin.
@@ -40,7 +41,8 @@ Utifrån en design framtagen av [Salmiak Media](http://www.salmiakmedia.se/) utv
 ![BoPoolen.nu](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/bopoolen-nu-bw.png)
 
 ### Radio AF till iPhone och Android [API] (2011)
-I slutet av min tid som datoransvarig på [Radio AF](http://radioaf.se) tog jag fram ett API för att underlätta utvecklingen av en iPhone- och Android-applikation. Applikationen i sig är utvecklad av [Simson Creative Solutions](Simson Creative Solutions).
+
+I slutet av min tid som datoransvarig på [Radio AF](http://radioaf.se) tog jag fram ett API för att underlätta utvecklingen av en iPhone- och Android-applikation. Applikationen i sig är utvecklad av [Simson Creative Solutions](http://simsons.se).
 
 - Möjlighet att hämta vilken låt som spelas just nu och vilket program som sänder.
 - Tablån hämtas via ett API.
@@ -48,13 +50,15 @@ I slutet av min tid som datoransvarig på [Radio AF](http://radioaf.se) tog jag 
 ![Radio AF app](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/radioaf-app-bw.png)
 
 ### Lundakarnevalen.se (2010)
+
 [Lundakarnevalen.se](http://lundakarnevalen.se) var utan tvekan den mest besöka webbplatsen i Skåne under karnevalsvåren 2010. Via karnevalens hemsida offentliggjordes artister och uppträden, samtidigt som de individuella sektionerna fick chans att skylta med sin verksamhet.
 
 Webbplatsen utvecklades ideellt i samarbete med [Nicklas Nygren (Mossisen Media)](http://mossisen.se/). Vi använde oss utav WordPress.
 
 ![Lundakarnevalen.se](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/lundakarnevalen-se-bw.png)
 
-### Studentlund.se (2010)
+### Studentlund.se (2010)
+
 Studentlund är ett samarbete mellan en rad olika studentorganisationer i Lund. Bland medlemsorganisationerna återfinns bland annat studentnationerna och Akademiska Föreningen. Under terminerna anordnas alltifrån nattklubbar till poesiträffar och direktsänd radio.
 
 [Studentlund.se](http://studentlund.se) är den främsta kommunikationskanalen för dessa studentorganisationer.
@@ -67,6 +71,6 @@ Förutom innehållshantering och egna undersidor för alla studentföreningar be
 - Facebook-integration
 - Google Maps-integration
 - Eventkalender för evenemang som kan läggas till automatiskt från existerande Google-kalendrar. Varje studentorganisation hanterar sin egen information.
-- REST API för eventkalendern. Står för innehållet i en [iPhone](http://itunes.apple.com/se/app/studentlund-din-guide-till/id432194715?mt=8") och [Android](https://market.android.com/details?id=org.af.studentlund38feature=search_result)-applikation som togs fram i samarbete med [Simson Creative Solutions](http://simsons.se/).
+- REST API för eventkalendern. Står för innehållet i en [iPhone](http://itunes.apple.com/se/app/studentlund-din-guide-till/id432194715?mt=8) och [Android](https://play.google.com/store/apps/details?id=org.af.studentlund&hl=en)-applikation som togs fram i samarbete med [Simson Creative Solutions](http://simsons.se/).
 
 ![Studentlund.se](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/studentlund-bw.png)
