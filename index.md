@@ -7,7 +7,7 @@ layout: default
 Lindblad IT-konsultation drivs av [Niklas Lindblad](https://www.linkedin.com/in/nlindblad).
 
 ## 2013 -
-Jag bor numera i London och arbetar heltid på tidningen [The Guardian](http://www.theguardian.com/uk) som utvecklare.
+Jag bor numera i London och arbetar heltid som utvecklare.
 
 
 ## 2009 - 2013
