@@ -4,7 +4,7 @@ layout: default
 
 {% include logo.html %}
 
-Lindblad IT-konsultation drivs av [Niklas Lindblad](https://www.linkedin.com/in/nlindblad).
+Lindblad IT-konsultation drivs av civilingenjör [Niklas Lindblad](https://www.linkedin.com/in/nlindblad).
 
 ## 2013 -
 Jag bor numera i London och arbetar heltid som utvecklare.
