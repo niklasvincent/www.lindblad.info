@@ -11,7 +11,7 @@ Jag bor numera i London och arbetar heltid som utvecklare.
 
 
 ## 2009 - 2013
-Under tiden jag studerade [teknisk nanovetenskap](http://www.lth.se/utbildning/teknisk-nanovetenskap/fragor-till-nanoingenjorer/) i Lund drev jag Lindblad IT-konsultation och frilansade inom mjukvaruutveckling.
+Under tiden jag studerade [teknisk nanovetenskap](http://www.lth.se/utbildning/teknisk_nanovetenskap) i Lund drev jag Lindblad IT-konsultation och frilansade inom mjukvaruutveckling.
 
 ### Kvittar iPhone [API] (2011)
 
