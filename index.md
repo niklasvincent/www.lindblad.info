@@ -73,6 +73,6 @@ Förutom innehållshantering och egna undersidor för alla studentföreningar be
 - Facebook-integration
 - Google Maps-integration
 - Eventkalender för evenemang som kan läggas till automatiskt från existerande Google-kalendrar. Varje studentorganisation hanterar sin egen information.
-- REST API för eventkalendern. Står för innehållet i en [iPhone](http://itunes.apple.com/se/app/studentlund-din-guide-till/id432194715?mt=8) och [Android](https://play.google.com/store/apps/details?id=org.af.studentlund&hl=en)-applikation som togs fram i samarbete med [Simson Creative Solutions](http://simsons.se/).
+- REST API för eventkalendern. Står för innehållet i en iPhone och Android-applikation som togs fram i samarbete med [Simson Creative Solutions](http://simsons.se/).
 
 ![Studentlund.se](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/studentlund-bw.png)
