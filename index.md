@@ -4,11 +4,13 @@ layout: default
 
 {% include logo.html %}
 
-Lindblad IT-konsultation drivs av civilingenjör [Niklas Lindblad](https://www.linkedin.com/in/nlindblad).
+Lindblad IT-konsultation drevs av civilingenjör [Niklas Lindblad](https://www.linkedin.com/in/nlindblad).
 
-## 2013 -
-Jag bor numera i London och arbetar heltid som utvecklare.
+## 2020 -
+Jag bor numera i Sverige och arbetar som utvecklare för ett Stockholmsbaserat företag.
 
+## 2013 - 2019
+Under den här tiden bodde jag i London och arbetade som utvecklare på bland annat The Guardian, Nominet och Monzo.
 
 ## 2009 - 2013
 Under tiden jag studerade [teknisk nanovetenskap](http://www.lth.se/utbildning/teknisk_nanovetenskap) i Lund drev jag Lindblad IT-konsultation och frilansade inom mjukvaruutveckling.
@@ -71,6 +73,6 @@ Förutom innehållshantering och egna undersidor för alla studentföreningar be
 - Facebook-integration
 - Google Maps-integration
 - Eventkalender för evenemang som kan läggas till automatiskt från existerande Google-kalendrar. Varje studentorganisation hanterar sin egen information.
-- REST API för eventkalendern. Står för innehållet i en [iPhone](http://itunes.apple.com/se/app/studentlund-din-guide-till/id432194715?mt=8) och [Android](https://play.google.com/store/apps/details?id=org.af.studentlund&hl=en)-applikation som togs fram i samarbete med [Simson Creative Solutions](http://simsons.se/).
+- REST API för eventkalendern. Står för innehållet i en iPhone och Android-applikation som togs fram i samarbete med [Simson Creative Solutions](http://simsons.se/).
 
 ![Studentlund.se](https://d2tjdh98vh6jzp.cloudfront.net/images/lindblad-info/studentlund-bw.png)
